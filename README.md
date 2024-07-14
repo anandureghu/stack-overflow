@@ -19,8 +19,8 @@ DevFlow is a modern Stack Overflow clone designed to provide a seamless question
 
 - **Frontend**: Next.js 14, React
 - **Styling**: Tailwind CSS
-- **Backend**: Node.js, Express.js (optional for API handling)
-- **Database**: PostgreSQL
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
 ## Getting Started
 
@@ -97,3 +97,5 @@ If you have any feedback, please reach out to me at dev.anandureghu@gmail.com
 ---
 
 Happy coding!
+
+---
